@@ -1,0 +1,1 @@
+Picture1:httpstechdifferences.comdifferenece-between-for-and-while-loop.html#~text=The%20'for'%20loop%20used%20only,iteration%20are%20not%20exactly%20known.&text=If%20the%20condition%20is%20not,loop%2C%20it%20provides%20compilation%20error.
