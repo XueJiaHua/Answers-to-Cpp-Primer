@@ -20,6 +20,12 @@ private:
 	int m_salesvolume; //the sales volume of this kind of books in this record
 	float m_price;     //the price of this kind of books in this record
 public:
+	ITEM(string ISBN = "NULL", int salesvolume = 0, float price = 0.0)
+	{
+		m_ISBN = ISBN;
+		m_salesvolume = salesvolume;
+		m_price = price;
+	}
 	//get()
 	string getISBN()
 	{
