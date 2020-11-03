@@ -1,7 +1,7 @@
 /*
  *  C++ Primer, Fifth Edition Exercise 1.23
 
- *  Version:3.0
+ *  Version:2.0
  *  Editor :XueJiaHua, GitHub
  *  Date   :Nov 2, 2020
  */
@@ -36,7 +36,7 @@ void operator += (BOOKKIND* bookkind, ITEM item)
 	bookkind->addSALES(item.getSALESVOLUME() * item.getPRICE());
 }
 
-void print(BOOKKIND* head)
+void count_print(BOOKKIND* head)
 {
 	BOOKKIND* code = head;
 	while ((code = code->getNEXT()) != NULL)
