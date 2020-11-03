@@ -46,6 +46,6 @@ int main()
 			end = code;
 		}
 	}
-	print(head);
+	count_print(head);
 	return 0;
 }
