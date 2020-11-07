@@ -1,6 +1,5 @@
 /*
  *  C++ Primer, Fifth Edition, Ex 2.35
- *  P.S. It is the same as Ex 2.33
 
  *  Version:1.0
  *  Editor :XueJiaHua, GitHub
